@@ -1,5 +1,5 @@
 ---
-title: '1ets.com: A don Federation Company' featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+title: '1ets.com: XIΞLΞVAN SOLUTIONS' featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 description: "1ets.com is under construction."
 ---
 
